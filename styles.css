@@ -57,6 +57,7 @@ body {
 
 .folio {
     display: flex;
+    align-items: center; 
 }
 
 #volume-number {
