@@ -3,7 +3,7 @@ A game written as a vanilla JavaScript exercise.
 
 
 ## Screenshot
-![Example screenshot]()
+![Example screenshot](https://github.com/KrystellBarraza/rockpaperscissors/blob/master/rockpaperscissors_screenshot.png?raw=true)
 
 
 ## Technologies
