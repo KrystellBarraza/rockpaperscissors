@@ -57,22 +57,24 @@ body {
 
 .folio {
     display: flex;
-    align-items: center; 
 }
 
 #volume-number {
+    width: 20%;
     font-family: 'IM Fell English SC', serif;
-    padding-left: 6px;
+    text-align: right;
 }
 
 #tagline {
+    width: 60%;
     font-family: 'IM Fell English', serif;
-    padding-left: 185px;
+    text-align: center;
 }
 
 #date {
+    width: 20%;
     font-family: 'IM Fell English SC', serif;
-    padding-left: 192px;
+    text-align: left;
 }
 
 .scoreBoard {
